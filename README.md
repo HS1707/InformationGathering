@@ -22,7 +22,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-![image](https://github.com/pradeepasri26/InformationGathering/assets/131433142/d64dea3a-3e13-4f24-99a9-4f79bf073865)
+![Screenshot 2024-04-10 085742](https://github.com/HS1707/InformationGathering/assets/117717427/6c2b4df6-5ee9-429c-bacd-e487239ead79)
 
 ## Finding IP address:
 ![316321837-f63bd6db-fc16-4b3c-8c75-dd070cfb2202](https://github.com/pradeepasri26/InformationGathering/assets/131433142/3bb6ca8d-cd2f-4825-98a7-f0aecc655192)
