@@ -22,6 +22,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+
 ![Screenshot 2024-04-10 085742](https://github.com/HS1707/InformationGathering/assets/117717427/6c2b4df6-5ee9-429c-bacd-e487239ead79)
 
 ## Finding IP address:
