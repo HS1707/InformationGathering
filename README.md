@@ -32,7 +32,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![316321885-41bd0a58-0049-49f3-adf6-664e447209d2](https://github.com/pradeepasri26/InformationGathering/assets/131433142/e8379738-8ca9-44a6-b857-081316a6cc10)
 
 ## History of the Website
-![image](https://github.com/pradeepasri26/InformationGathering/assets/131433142/158ac01f-12e9-40c5-83c1-ba15842e0449)
+![Screenshot 2024-04-10 091655](https://github.com/HS1707/InformationGathering/assets/117717427/fb17600b-6733-4398-b4b2-1828c23531d0)
+
 
 ## Web server Fingerprint
 ![image](https://github.com/pradeepasri26/InformationGathering/assets/131433142/146e6998-1e26-4b25-a632-6e7959c59294)
